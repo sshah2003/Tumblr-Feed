@@ -1,6 +1,6 @@
 //
 //  Post.swift
-//  ios101-project5-tumbler
+//  ios101-project6-tumblr
 //
 
 import Foundation
@@ -14,11 +14,7 @@ struct Response: Decodable {
 }
 
 struct Post: Decodable {
-
-    /// A brief truncated version of the post caption
     let summary: String
-
-    /// The full blog post caption
     let caption: String
     let photos: [Photo]
 }
@@ -34,7 +30,5 @@ struct Photo: Decodable {
 }
 
 struct PhotoInfo: Decodable {
-
-    // The url for the location of the photo image
     let url: URL
 }

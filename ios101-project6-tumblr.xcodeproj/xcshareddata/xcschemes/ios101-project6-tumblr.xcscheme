@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-               BuildableName = "ios101-project5-tumblr.app"
-               BlueprintName = "ios101-project5-tumblr"
-               ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+               BuildableName = "ios101-project6-tumblr.app"
+               BlueprintName = "ios101-project6-tumblr"
+               ReferencedContainer = "container:ios101-project6-tumblr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-            BuildableName = "ios101-project5-tumblr.app"
-            BlueprintName = "ios101-project5-tumblr"
-            ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+            BuildableName = "ios101-project6-tumblr.app"
+            BlueprintName = "ios101-project6-tumblr"
+            ReferencedContainer = "container:ios101-project6-tumblr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-            BuildableName = "ios101-project5-tumblr.app"
-            BlueprintName = "ios101-project5-tumblr"
-            ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+            BuildableName = "ios101-project6-tumblr.app"
+            BlueprintName = "ios101-project6-tumblr"
+            ReferencedContainer = "container:ios101-project6-tumblr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

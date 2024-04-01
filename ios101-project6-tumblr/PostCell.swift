@@ -1,17 +1,15 @@
 //
-//  tumbler.swift
-//  ios101-project5-tumblr
-//
-//  Created by Sohil Shah on 3/25/24.
+//  PostCell.swift
+//  ios101-project6-tumblr
 //
 
 import UIKit
 
-class tumbler: UITableViewCell {
+class PostCell: UITableViewCell {
 
-    @IBOutlet weak var blockView: UIImageView!
-    @IBOutlet weak var descriptionLabel: UILabel!
-    
+    @IBOutlet weak var postImageView: UIImageView!
+    @IBOutlet weak var summaryLabel: UILabel!
+
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

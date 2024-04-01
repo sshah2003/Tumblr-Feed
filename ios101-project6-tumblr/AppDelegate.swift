@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ios101-project5-tumbler
+//  ios101-project6-tumblr
 //
 
 import UIKit
